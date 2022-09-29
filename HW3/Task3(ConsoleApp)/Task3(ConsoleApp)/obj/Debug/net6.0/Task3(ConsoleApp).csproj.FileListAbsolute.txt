@@ -1,0 +1,15 @@
+D:\ФКНК\2 курс\OOP\Lab\Task3(ConsoleApp)\Task3(ConsoleApp)\bin\Debug\net6.0\Task3(ConsoleApp).exe
+D:\ФКНК\2 курс\OOP\Lab\Task3(ConsoleApp)\Task3(ConsoleApp)\bin\Debug\net6.0\Task3(ConsoleApp).deps.json
+D:\ФКНК\2 курс\OOP\Lab\Task3(ConsoleApp)\Task3(ConsoleApp)\bin\Debug\net6.0\Task3(ConsoleApp).runtimeconfig.json
+D:\ФКНК\2 курс\OOP\Lab\Task3(ConsoleApp)\Task3(ConsoleApp)\bin\Debug\net6.0\Task3(ConsoleApp).dll
+D:\ФКНК\2 курс\OOP\Lab\Task3(ConsoleApp)\Task3(ConsoleApp)\bin\Debug\net6.0\Task3(ConsoleApp).pdb
+D:\ФКНК\2 курс\OOP\Lab\Task3(ConsoleApp)\Task3(ConsoleApp)\obj\Debug\net6.0\Task3(ConsoleApp).csproj.AssemblyReference.cache
+D:\ФКНК\2 курс\OOP\Lab\Task3(ConsoleApp)\Task3(ConsoleApp)\obj\Debug\net6.0\Task3(ConsoleApp).GeneratedMSBuildEditorConfig.editorconfig
+D:\ФКНК\2 курс\OOP\Lab\Task3(ConsoleApp)\Task3(ConsoleApp)\obj\Debug\net6.0\Task3(ConsoleApp).AssemblyInfoInputs.cache
+D:\ФКНК\2 курс\OOP\Lab\Task3(ConsoleApp)\Task3(ConsoleApp)\obj\Debug\net6.0\Task3(ConsoleApp).AssemblyInfo.cs
+D:\ФКНК\2 курс\OOP\Lab\Task3(ConsoleApp)\Task3(ConsoleApp)\obj\Debug\net6.0\Task3(ConsoleApp).csproj.CoreCompileInputs.cache
+D:\ФКНК\2 курс\OOP\Lab\Task3(ConsoleApp)\Task3(ConsoleApp)\obj\Debug\net6.0\Task3(ConsoleApp).dll
+D:\ФКНК\2 курс\OOP\Lab\Task3(ConsoleApp)\Task3(ConsoleApp)\obj\Debug\net6.0\refint\Task3(ConsoleApp).dll
+D:\ФКНК\2 курс\OOP\Lab\Task3(ConsoleApp)\Task3(ConsoleApp)\obj\Debug\net6.0\Task3(ConsoleApp).pdb
+D:\ФКНК\2 курс\OOP\Lab\Task3(ConsoleApp)\Task3(ConsoleApp)\obj\Debug\net6.0\Task3(ConsoleApp).genruntimeconfig.cache
+D:\ФКНК\2 курс\OOP\Lab\Task3(ConsoleApp)\Task3(ConsoleApp)\obj\Debug\net6.0\ref\Task3(ConsoleApp).dll
