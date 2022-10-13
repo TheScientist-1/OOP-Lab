@@ -1,0 +1,17 @@
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\bin\Debug\net6.0-windows\demoNew.exe
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\bin\Debug\net6.0-windows\demoNew.deps.json
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\bin\Debug\net6.0-windows\demoNew.runtimeconfig.json
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\bin\Debug\net6.0-windows\demoNew.dll
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\bin\Debug\net6.0-windows\demoNew.pdb
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\obj\Debug\net6.0-windows\demoNew.csproj.AssemblyReference.cache
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\obj\Debug\net6.0-windows\demoNew.csproj.GenerateResource.cache
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\obj\Debug\net6.0-windows\demoNew.GeneratedMSBuildEditorConfig.editorconfig
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\obj\Debug\net6.0-windows\demoNew.AssemblyInfoInputs.cache
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\obj\Debug\net6.0-windows\demoNew.AssemblyInfo.cs
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\obj\Debug\net6.0-windows\demoNew.csproj.CoreCompileInputs.cache
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\obj\Debug\net6.0-windows\demoNew.dll
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\obj\Debug\net6.0-windows\refint\demoNew.dll
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\obj\Debug\net6.0-windows\demoNew.pdb
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\obj\Debug\net6.0-windows\demoNew.genruntimeconfig.cache
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\obj\Debug\net6.0-windows\ref\demoNew.dll
+D:\ФКНК\2 курс\OOP\Lab\demoNew\demoNew\obj\Debug\net6.0-windows\demoNew.Form1.resources

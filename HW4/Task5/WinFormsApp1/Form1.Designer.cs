@@ -71,7 +71,7 @@
             // 
             // AddProduct
             // 
-            this.AddProduct.Location = new System.Drawing.Point(1170, 46);
+            this.AddProduct.Location = new System.Drawing.Point(1022, 241);
             this.AddProduct.Name = "AddProduct";
             this.AddProduct.Size = new System.Drawing.Size(161, 34);
             this.AddProduct.TabIndex = 0;
@@ -81,7 +81,7 @@
             // 
             // AddBook
             // 
-            this.AddBook.Location = new System.Drawing.Point(1170, 89);
+            this.AddBook.Location = new System.Drawing.Point(1022, 281);
             this.AddBook.Name = "AddBook";
             this.AddBook.Size = new System.Drawing.Size(161, 34);
             this.AddBook.TabIndex = 1;
@@ -91,7 +91,7 @@
             // 
             // Delete
             // 
-            this.Delete.Location = new System.Drawing.Point(1170, 133);
+            this.Delete.Location = new System.Drawing.Point(1022, 321);
             this.Delete.Name = "Delete";
             this.Delete.Size = new System.Drawing.Size(161, 34);
             this.Delete.TabIndex = 2;
@@ -102,7 +102,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(16, 27);
+            this.label1.Location = new System.Drawing.Point(16, 15);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(62, 25);
             this.label1.TabIndex = 3;
@@ -111,7 +111,7 @@
             // Price
             // 
             this.Price.AutoSize = true;
-            this.Price.Location = new System.Drawing.Point(16, 62);
+            this.Price.Location = new System.Drawing.Point(16, 51);
             this.Price.Name = "Price";
             this.Price.Size = new System.Drawing.Size(54, 25);
             this.Price.TabIndex = 4;
@@ -120,7 +120,7 @@
             // Country
             // 
             this.Country.AutoSize = true;
-            this.Country.Location = new System.Drawing.Point(12, 97);
+            this.Country.Location = new System.Drawing.Point(12, 86);
             this.Country.Name = "Country";
             this.Country.Size = new System.Drawing.Size(159, 25);
             this.Country.TabIndex = 5;
@@ -129,7 +129,7 @@
             // Date
             // 
             this.Date.AutoSize = true;
-            this.Date.Location = new System.Drawing.Point(12, 133);
+            this.Date.Location = new System.Drawing.Point(12, 120);
             this.Date.Name = "Date";
             this.Date.Size = new System.Drawing.Size(128, 25);
             this.Date.TabIndex = 6;
@@ -139,7 +139,7 @@
             // Description
             // 
             this.Description.AutoSize = true;
-            this.Description.Location = new System.Drawing.Point(12, 168);
+            this.Description.Location = new System.Drawing.Point(16, 163);
             this.Description.Name = "Description";
             this.Description.Size = new System.Drawing.Size(109, 25);
             this.Description.TabIndex = 7;
@@ -209,56 +209,56 @@
             // 
             // txtName
             // 
-            this.txtName.Location = new System.Drawing.Point(99, 21);
+            this.txtName.Location = new System.Drawing.Point(146, 9);
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(150, 31);
             this.txtName.TabIndex = 15;
             // 
             // txtCountry
             // 
-            this.txtCountry.Location = new System.Drawing.Point(177, 97);
+            this.txtCountry.Location = new System.Drawing.Point(196, 83);
             this.txtCountry.Name = "txtCountry";
             this.txtCountry.Size = new System.Drawing.Size(100, 31);
             this.txtCountry.TabIndex = 16;
             // 
             // txtPrice
             // 
-            this.txtPrice.Location = new System.Drawing.Point(76, 59);
+            this.txtPrice.Location = new System.Drawing.Point(146, 45);
             this.txtPrice.Name = "txtPrice";
             this.txtPrice.Size = new System.Drawing.Size(150, 31);
             this.txtPrice.TabIndex = 17;
             // 
             // txtDate
             // 
-            this.txtDate.Location = new System.Drawing.Point(146, 130);
+            this.txtDate.Location = new System.Drawing.Point(146, 120);
             this.txtDate.Name = "txtDate";
             this.txtDate.Size = new System.Drawing.Size(150, 31);
             this.txtDate.TabIndex = 18;
             // 
             // txtDescription
             // 
-            this.txtDescription.Location = new System.Drawing.Point(127, 171);
+            this.txtDescription.Location = new System.Drawing.Point(146, 157);
             this.txtDescription.Name = "txtDescription";
             this.txtDescription.Size = new System.Drawing.Size(150, 31);
             this.txtDescription.TabIndex = 19;
             // 
             // txtExpDate
             // 
-            this.txtExpDate.Location = new System.Drawing.Point(458, 0);
+            this.txtExpDate.Location = new System.Drawing.Point(454, 8);
             this.txtExpDate.Name = "txtExpDate";
             this.txtExpDate.Size = new System.Drawing.Size(150, 31);
             this.txtExpDate.TabIndex = 20;
             // 
             // txtNumber
             // 
-            this.txtNumber.Location = new System.Drawing.Point(403, 45);
+            this.txtNumber.Location = new System.Drawing.Point(454, 48);
             this.txtNumber.Name = "txtNumber";
             this.txtNumber.Size = new System.Drawing.Size(150, 31);
             this.txtNumber.TabIndex = 21;
             // 
             // txtUnit
             // 
-            this.txtUnit.Location = new System.Drawing.Point(375, 91);
+            this.txtUnit.Location = new System.Drawing.Point(454, 91);
             this.txtUnit.Name = "txtUnit";
             this.txtUnit.Size = new System.Drawing.Size(150, 31);
             this.txtUnit.TabIndex = 22;
@@ -272,14 +272,14 @@
             // 
             // txtPublisher
             // 
-            this.txtPublisher.Location = new System.Drawing.Point(710, 48);
+            this.txtPublisher.Location = new System.Drawing.Point(784, 48);
             this.txtPublisher.Name = "txtPublisher";
             this.txtPublisher.Size = new System.Drawing.Size(150, 31);
             this.txtPublisher.TabIndex = 24;
             // 
             // txtAuthors
             // 
-            this.txtAuthors.Location = new System.Drawing.Point(710, 91);
+            this.txtAuthors.Location = new System.Drawing.Point(784, 92);
             this.txtAuthors.Name = "txtAuthors";
             this.txtAuthors.Size = new System.Drawing.Size(150, 31);
             this.txtAuthors.TabIndex = 25;
@@ -402,7 +402,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1376, 661);
+            this.ClientSize = new System.Drawing.Size(1203, 635);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.txtAuthors);
             this.Controls.Add(this.txtPublisher);

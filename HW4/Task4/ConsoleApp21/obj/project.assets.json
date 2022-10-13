@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ФКНК\\2 курс\\OOP\\Lab\\Solution1\\ConsoleApp21\\ConsoleApp21.csproj",
+      "projectUniqueName": "C:\\Users\\m\\Desktop\\Нова папка\\OOP-Lab\\HW4\\Task4\\ConsoleApp21\\ConsoleApp21.csproj",
       "projectName": "ConsoleApp21",
-      "projectPath": "D:\\ФКНК\\2 курс\\OOP\\Lab\\Solution1\\ConsoleApp21\\ConsoleApp21.csproj",
+      "projectPath": "C:\\Users\\m\\Desktop\\Нова папка\\OOP-Lab\\HW4\\Task4\\ConsoleApp21\\ConsoleApp21.csproj",
       "packagesPath": "C:\\Users\\m\\.nuget\\packages\\",
-      "outputPath": "D:\\ФКНК\\2 курс\\OOP\\Lab\\Solution1\\ConsoleApp21\\obj\\",
+      "outputPath": "C:\\Users\\m\\Desktop\\Нова папка\\OOP-Lab\\HW4\\Task4\\ConsoleApp21\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
