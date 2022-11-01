@@ -1,0 +1,15 @@
+D:\ФКНК\2 курс\OOP\Lab\JsonSamole\JsonSamole\bin\Debug\net6.0\JsonSamole.exe
+D:\ФКНК\2 курс\OOP\Lab\JsonSamole\JsonSamole\bin\Debug\net6.0\JsonSamole.deps.json
+D:\ФКНК\2 курс\OOP\Lab\JsonSamole\JsonSamole\bin\Debug\net6.0\JsonSamole.runtimeconfig.json
+D:\ФКНК\2 курс\OOP\Lab\JsonSamole\JsonSamole\bin\Debug\net6.0\JsonSamole.dll
+D:\ФКНК\2 курс\OOP\Lab\JsonSamole\JsonSamole\bin\Debug\net6.0\JsonSamole.pdb
+D:\ФКНК\2 курс\OOP\Lab\JsonSamole\JsonSamole\obj\Debug\net6.0\JsonSamole.csproj.AssemblyReference.cache
+D:\ФКНК\2 курс\OOP\Lab\JsonSamole\JsonSamole\obj\Debug\net6.0\JsonSamole.GeneratedMSBuildEditorConfig.editorconfig
+D:\ФКНК\2 курс\OOP\Lab\JsonSamole\JsonSamole\obj\Debug\net6.0\JsonSamole.AssemblyInfoInputs.cache
+D:\ФКНК\2 курс\OOP\Lab\JsonSamole\JsonSamole\obj\Debug\net6.0\JsonSamole.AssemblyInfo.cs
+D:\ФКНК\2 курс\OOP\Lab\JsonSamole\JsonSamole\obj\Debug\net6.0\JsonSamole.csproj.CoreCompileInputs.cache
+D:\ФКНК\2 курс\OOP\Lab\JsonSamole\JsonSamole\obj\Debug\net6.0\JsonSamole.dll
+D:\ФКНК\2 курс\OOP\Lab\JsonSamole\JsonSamole\obj\Debug\net6.0\refint\JsonSamole.dll
+D:\ФКНК\2 курс\OOP\Lab\JsonSamole\JsonSamole\obj\Debug\net6.0\JsonSamole.pdb
+D:\ФКНК\2 курс\OOP\Lab\JsonSamole\JsonSamole\obj\Debug\net6.0\JsonSamole.genruntimeconfig.cache
+D:\ФКНК\2 курс\OOP\Lab\JsonSamole\JsonSamole\obj\Debug\net6.0\ref\JsonSamole.dll
