@@ -1,0 +1,15 @@
+D:\ФКНК\2 курс\OOP\Lab\7\Decorator\Decorator\bin\Debug\net6.0\Decorator.exe
+D:\ФКНК\2 курс\OOP\Lab\7\Decorator\Decorator\bin\Debug\net6.0\Decorator.deps.json
+D:\ФКНК\2 курс\OOP\Lab\7\Decorator\Decorator\bin\Debug\net6.0\Decorator.runtimeconfig.json
+D:\ФКНК\2 курс\OOP\Lab\7\Decorator\Decorator\bin\Debug\net6.0\Decorator.dll
+D:\ФКНК\2 курс\OOP\Lab\7\Decorator\Decorator\bin\Debug\net6.0\Decorator.pdb
+D:\ФКНК\2 курс\OOP\Lab\7\Decorator\Decorator\obj\Debug\net6.0\Decorator.csproj.AssemblyReference.cache
+D:\ФКНК\2 курс\OOP\Lab\7\Decorator\Decorator\obj\Debug\net6.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ФКНК\2 курс\OOP\Lab\7\Decorator\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfoInputs.cache
+D:\ФКНК\2 курс\OOP\Lab\7\Decorator\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfo.cs
+D:\ФКНК\2 курс\OOP\Lab\7\Decorator\Decorator\obj\Debug\net6.0\Decorator.csproj.CoreCompileInputs.cache
+D:\ФКНК\2 курс\OOP\Lab\7\Decorator\Decorator\obj\Debug\net6.0\Decorator.dll
+D:\ФКНК\2 курс\OOP\Lab\7\Decorator\Decorator\obj\Debug\net6.0\refint\Decorator.dll
+D:\ФКНК\2 курс\OOP\Lab\7\Decorator\Decorator\obj\Debug\net6.0\Decorator.pdb
+D:\ФКНК\2 курс\OOP\Lab\7\Decorator\Decorator\obj\Debug\net6.0\Decorator.genruntimeconfig.cache
+D:\ФКНК\2 курс\OOP\Lab\7\Decorator\Decorator\obj\Debug\net6.0\ref\Decorator.dll

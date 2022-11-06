@@ -1,0 +1,15 @@
+D:\ФКНК\2 курс\OOP\Lab\7\Mediator\Mediator\bin\Debug\net6.0\Mediator.exe
+D:\ФКНК\2 курс\OOP\Lab\7\Mediator\Mediator\bin\Debug\net6.0\Mediator.deps.json
+D:\ФКНК\2 курс\OOP\Lab\7\Mediator\Mediator\bin\Debug\net6.0\Mediator.runtimeconfig.json
+D:\ФКНК\2 курс\OOP\Lab\7\Mediator\Mediator\bin\Debug\net6.0\Mediator.dll
+D:\ФКНК\2 курс\OOP\Lab\7\Mediator\Mediator\bin\Debug\net6.0\Mediator.pdb
+D:\ФКНК\2 курс\OOP\Lab\7\Mediator\Mediator\obj\Debug\net6.0\Mediator.csproj.AssemblyReference.cache
+D:\ФКНК\2 курс\OOP\Lab\7\Mediator\Mediator\obj\Debug\net6.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ФКНК\2 курс\OOP\Lab\7\Mediator\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfoInputs.cache
+D:\ФКНК\2 курс\OOP\Lab\7\Mediator\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfo.cs
+D:\ФКНК\2 курс\OOP\Lab\7\Mediator\Mediator\obj\Debug\net6.0\Mediator.csproj.CoreCompileInputs.cache
+D:\ФКНК\2 курс\OOP\Lab\7\Mediator\Mediator\obj\Debug\net6.0\Mediator.dll
+D:\ФКНК\2 курс\OOP\Lab\7\Mediator\Mediator\obj\Debug\net6.0\refint\Mediator.dll
+D:\ФКНК\2 курс\OOP\Lab\7\Mediator\Mediator\obj\Debug\net6.0\Mediator.pdb
+D:\ФКНК\2 курс\OOP\Lab\7\Mediator\Mediator\obj\Debug\net6.0\Mediator.genruntimeconfig.cache
+D:\ФКНК\2 курс\OOP\Lab\7\Mediator\Mediator\obj\Debug\net6.0\ref\Mediator.dll
