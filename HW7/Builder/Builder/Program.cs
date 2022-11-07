@@ -56,7 +56,10 @@ namespace Builder
             public override void BuildDough() { pizza.SetDough("oven baked"); }
             public override void BuildSauce() { pizza.SetSauce("tomato"); }
             public override void BuildTopping() { pizza.SetTopping("tomato+mozzarella"); }
-            /** "Director" */
+            
+
+        }
+        /** "Director" */
             class Waiter
             {
                 private PizzaBuilder pizzaBuilder;
@@ -89,7 +92,5 @@ namespace Builder
                     Console.ReadKey();
                 }
             }
-
-        }
     }
 }

@@ -1,0 +1,15 @@
+D:\ФКНК\2 курс\OOP\Lab\7\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.exe
+D:\ФКНК\2 курс\OOP\Lab\7\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.deps.json
+D:\ФКНК\2 курс\OOP\Lab\7\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.runtimeconfig.json
+D:\ФКНК\2 курс\OOP\Lab\7\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.dll
+D:\ФКНК\2 курс\OOP\Lab\7\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.pdb
+D:\ФКНК\2 курс\OOP\Lab\7\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.AssemblyReference.cache
+D:\ФКНК\2 курс\OOP\Lab\7\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\ФКНК\2 курс\OOP\Lab\7\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\ФКНК\2 курс\OOP\Lab\7\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfo.cs
+D:\ФКНК\2 курс\OOP\Lab\7\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\ФКНК\2 курс\OOP\Lab\7\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.dll
+D:\ФКНК\2 курс\OOP\Lab\7\FactoryMethod\FactoryMethod\obj\Debug\net6.0\refint\FactoryMethod.dll
+D:\ФКНК\2 курс\OOP\Lab\7\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.pdb
+D:\ФКНК\2 курс\OOP\Lab\7\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.genruntimeconfig.cache
+D:\ФКНК\2 курс\OOP\Lab\7\FactoryMethod\FactoryMethod\obj\Debug\net6.0\ref\FactoryMethod.dll
