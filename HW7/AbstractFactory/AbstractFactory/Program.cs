@@ -1,4 +1,8 @@
 ﻿using System;
+/*Додатково потрібно додати новий вид продукту (абстрактний) - колеса. 
+Це наочно демонструє, що для патерну AbstractFactory
+додавання підтримки нового виду продукту є складними, на відміну від
+додавання нового конкретного продукту.*/
 
 namespace AbstractFactory
 {
@@ -11,6 +15,11 @@ namespace AbstractFactory
             Info();
             Console.WriteLine("Set Engine: ");
             engine.GetPower();
+        }
+        public void InteractT(Tyres tyres)
+        {
+            Console.WriteLine("Check tyres: ");
+            tyres.ShowTyresType();
         }
     }
 
@@ -50,6 +59,14 @@ namespace AbstractFactory
         }
     }
 
+    // AbstractProductC
+    public abstract class Tyres
+    {
+        public virtual void ShowTyresType()
+        {
+        }
+    }
+
     // ConcreteProductB1
     public class FordEngine : Engine
     {
@@ -77,11 +94,39 @@ namespace AbstractFactory
         }
     }
 
+    // ConcreteProductC1
+    public class FordTyres : Tyres
+    {
+        public override void ShowTyresType()
+        {
+            Console.WriteLine("Ford Tyres");
+        }
+    }
+
+    //ConcreteProductC2
+    public class ToyotaTyres : Tyres
+    {
+        public override void ShowTyresType()
+        {
+            Console.WriteLine("Toyota Tyres");
+        }
+    }
+
+    //ConcreteProductC3
+    public class MersedesTyres : Tyres
+    {
+        public override void ShowTyresType()
+        {
+            Console.WriteLine("Mersedes Tyres");
+        }
+    }
+
     // AbstractFactory
     public interface ICarFactory
     {
         Car CreateCar();
         Engine CreateEngine();
+        Tyres CreateTyres();
     }
 
     // ConcreteFactory1
@@ -96,6 +141,11 @@ namespace AbstractFactory
         Engine ICarFactory.CreateEngine()
         {
             return new FordEngine();
+        }
+
+        Tyres ICarFactory.CreateTyres()
+        {
+            return new FordTyres();
         }
     }
 
@@ -113,6 +163,11 @@ namespace AbstractFactory
         {
             return new ToyotaEngine();
         }
+
+        Tyres ICarFactory.CreateTyres()
+        {
+            return new ToyotaTyres();
+        }
     }
 
 
@@ -129,17 +184,24 @@ namespace AbstractFactory
         {
             return new MersedesEngine();
         }
+
+        Tyres ICarFactory.CreateTyres()
+        {
+            return new MersedesTyres();
+        }
     }
     public class ClientFactory
     {
         private Car car;
         private Engine engine;
+        private Tyres tyres;
 
         public ClientFactory(ICarFactory factory)
         {
             //Абстрагування процесів інстанціювання
             car = factory.CreateCar();
             engine = factory.CreateEngine();
+            tyres = factory.CreateTyres();
         }
 
         public void Run()
@@ -147,6 +209,7 @@ namespace AbstractFactory
             car.GetType();
             //Абстрагування варіантів використання
             car.Interact(engine);
+            car.InteractT(tyres);
         }
     }
 

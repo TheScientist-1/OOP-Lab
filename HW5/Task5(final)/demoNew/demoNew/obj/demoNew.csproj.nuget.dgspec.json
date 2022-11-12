@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ФКНК\\2 курс\\OOP\\Lab\\demoNew\\demoNew\\demoNew.csproj": {}
+    "C:\\Users\\m\\Desktop\\Нова папка\\OOP-Lab\\HW5\\Task5(final)\\demoNew\\demoNew\\demoNew.csproj": {}
   },
   "projects": {
-    "D:\\ФКНК\\2 курс\\OOP\\Lab\\demoNew\\demoNew\\demoNew.csproj": {
+    "C:\\Users\\m\\Desktop\\Нова папка\\OOP-Lab\\HW5\\Task5(final)\\demoNew\\demoNew\\demoNew.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ФКНК\\2 курс\\OOP\\Lab\\demoNew\\demoNew\\demoNew.csproj",
+        "projectUniqueName": "C:\\Users\\m\\Desktop\\Нова папка\\OOP-Lab\\HW5\\Task5(final)\\demoNew\\demoNew\\demoNew.csproj",
         "projectName": "demoNew",
-        "projectPath": "D:\\ФКНК\\2 курс\\OOP\\Lab\\demoNew\\demoNew\\demoNew.csproj",
+        "projectPath": "C:\\Users\\m\\Desktop\\Нова папка\\OOP-Lab\\HW5\\Task5(final)\\demoNew\\demoNew\\demoNew.csproj",
         "packagesPath": "C:\\Users\\m\\.nuget\\packages\\",
-        "outputPath": "D:\\ФКНК\\2 курс\\OOP\\Lab\\demoNew\\demoNew\\obj\\",
+        "outputPath": "C:\\Users\\m\\Desktop\\Нова папка\\OOP-Lab\\HW5\\Task5(final)\\demoNew\\demoNew\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
