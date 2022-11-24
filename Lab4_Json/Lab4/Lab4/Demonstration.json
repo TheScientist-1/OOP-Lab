@@ -1,0 +1,119 @@
+[
+  {
+    "Code": 6861,
+    "Title": "Northanger Abbey",
+    "Author": "Austen, Jane",
+    "Publish_year": 1814,
+    "Edition": "Penguin",
+    "Price": 18.2,
+    "Amount": 132
+  },
+  {
+    "Code": 1712,
+    "Title": "War and Peace",
+    "Author": "Tolstoy, Leo",
+    "Publish_year": 1865,
+    "Edition": "Harbour",
+    "Price": 12.7,
+    "Amount": 543
+  },
+  {
+    "Code": 3239,
+    "Title": "Anna Karenina",
+    "Author": "Tolstoy, Leo",
+    "Publish_year": 1875,
+    "Edition": "Penguin",
+    "Price": 13.5,
+    "Amount": 345
+  },
+  {
+    "Code": 9733,
+    "Title": "Mrs. Dalloway",
+    "Author": "Woolf, Virginia",
+    "Publish_year": 1925,
+    "Edition": "Harcourt Brace",
+    "Price": 25,
+    "Amount": 35
+  },
+  {
+    "Code": 9744,
+    "Title": "The Hours",
+    "Author": "Cunnningham, Michael",
+    "Publish_year": 1999,
+    "Edition": "Harcourt Brace",
+    "Price": 12.35,
+    "Amount": 32
+  },
+  {
+    "Code": 9473,
+    "Title": "Huckleberry Finn",
+    "Author": "Twain, Mark",
+    "Publish_year": 1865,
+    "Edition": "Penguin",
+    "Price": 5.76,
+    "Amount": 789
+  },
+  {
+    "Code": 3279,
+    "Title": "Bleak House",
+    "Author": "Dickens, Charles",
+    "Publish_year": 1870,
+    "Edition": "Random House",
+    "Price": 5.75,
+    "Amount": 7
+  },
+  {
+    "Code": 3479,
+    "Title": "Tom Sawyer",
+    "Author": "Twain, Mark",
+    "Publish_year": 1862,
+    "Edition": "Random House",
+    "Price": 7.75,
+    "Amount": 89
+  },
+  {
+    "Code": 7969,
+    "Title": "A Room of One\u0027s Own",
+    "Author": "Woolf, Virginia",
+    "Publish_year": 1922,
+    "Edition": "Penguin",
+    "Price": 29,
+    "Amount": 79
+  },
+  {
+    "Code": 6799,
+    "Title": "Harry Potter",
+    "Author": "Rowling, J.K.",
+    "Publish_year": 2000,
+    "Edition": "Harcourt Brace",
+    "Price": 19.95,
+    "Amount": 132
+  },
+  {
+    "Code": 6789,
+    "Title": "One Hundred Years of Solitude",
+    "Author": "Marquez",
+    "Publish_year": 1967,
+    "Edition": "Harper  Perennial",
+    "Price": 14,
+    "Amount": 68
+  },
+  {
+    "Code": 8779,
+    "Title": "Hamlet, Prince of Denmark",
+    "Author": "Shakespeare",
+    "Publish_year": 1603,
+    "Edition": "Signet  Classics",
+    "Price": 7.95,
+    "Amount": 89
+  },
+  {
+    "Code": 9777,
+    "Title": "Lord of the Rings",
+    "Author": "Tolkien, J.R.",
+    "Publish_year": 1937,
+    "Edition": "Penguin",
+    "Price": 27.45,
+    "Amount": 82
+  }
+]
